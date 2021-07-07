@@ -7,8 +7,8 @@
 ## Requirements
 
 * An application which provide secret OTP key by user
-  * to register into TOTP app for instance
-  * or provide directly the code
+  * to register into [TOTP app](https://github.com/mesopelagique/OTP#download-ones) for instance
+  * or provide directly the code in the desktop or web app
   * or able to send it by email
 
 ## TODO
